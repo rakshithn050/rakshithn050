@@ -75,8 +75,11 @@
 <img src="https://img.shields.io/twitter/follow/RAKSHIT46275711?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&label=TWITTER&labelColor=gray&color=gray" alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/rakshith~n/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://rakshithn050.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto&link=https%3A%2F%2Frakshithn050.github.io%2Fportfolio%2F" alt=portfolio style="margin-bottom: 5px;" />
 </a>
 </div>  
   
