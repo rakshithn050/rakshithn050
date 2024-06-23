@@ -25,26 +25,11 @@
 
 # Skills: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px style="vertical-align: middle;">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://imgs.search.brave.com/np9Suzrp_3kNkWQhHCshEnLZq-1foqWL_DUMi9XXyWE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM4L0hUTUw1X0Jh/ZGdlLnN2Zw.svg" alt="HTML5" height="25" width="25" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png" alt="CSS3" height="25" width="25" /></a>  
-  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="Bootstrap" height="25" /></a>  
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="25" width="25" /></a>   
-  <a href="https://mui.com/material-ui/getting-started/" target="_blank"><img src="https://imgs.search.brave.com/1YycRJo2u2heNheMHUyxushNRXp6EGgaJHMqaLjIMwQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92My5t/dWkuY29tL3N0YXRp/Yy9pbWFnZXMvbWF0/ZXJpYWwtdWktbG9n/by5zdmc.svg" alt="Material UI" height="25" width="25" /></a>  
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" width="25" /></a> 
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" width="25" /></a> 
-  <a href="https://jquery.com/" target="_blank"><img src="https://imgs.search.brave.com/GpEcIXLWjRMVMB3SkN9IB7RVZ-3H2TgN3jFE8zQ6YRg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qcXVlcnkt/cGxhaW4td29yZG1h/cmstaWNvbi0yNDF4/MjU2LXJ5c3E2bDEz/LnBuZw" alt="Jquery" height="25" width="25" /></a> 
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" width="25" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" width="25" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" width="25" /></a>  
-  <a href="https://nodejs.com/" target="_blank"><img src="https://imgs.search.brave.com/YCrguU05HM-b6HNYo5pnX0ZZJJQM0lZcHb7u0qI9NPE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9ub2RlanMtMS5z/dmc.svg" alt="Node.js" height="25" width="25" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img src="https://expressjs.com/images/favicon.png" alt="Express.js" height="25" width="25" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" width="25" /></a>  
-  <a href="https://reactrouter.com/en/main" target="_blank"><img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="React Router" height="25" /></a>   
-  <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="25" width="25" /></a>   
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" width="25" /></a>   
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" width="25"/></a>
-</div>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,sass,jquery,php,laravel,react,nodejs,express,mongodb,git,github,jest,less,md,mysql,npm,redux,vscode,postman,figma&perline=8" />
+  </a>
+</p>
 
 <br/>  
 
